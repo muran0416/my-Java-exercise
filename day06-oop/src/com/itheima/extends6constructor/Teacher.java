@@ -7,6 +7,7 @@ public class Teacher extends Pepole {
     }
 
     public Teacher(String name, String skill, char sex) {
+        // 调用父类构造器
         super(name,sex);
         this.skill = skill;
     }
