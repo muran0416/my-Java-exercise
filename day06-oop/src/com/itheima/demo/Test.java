@@ -1,7 +1,6 @@
 package com.itheima.demo;
 
 import java.util.Scanner;
-
 public class Test {
     public static void main(String[] args) {
         GoldCard goldCard = new GoldCard("湘A9978B", "张三", "18376429610", 5000);
